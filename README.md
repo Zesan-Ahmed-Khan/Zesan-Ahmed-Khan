@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Zesan-Ahmed-Khan
-- 👀 I’m interested in Poetry
-- 🌱 I’m currently learning AI and Big Data
+- 🌱 I’m currently studying AI and Big Data
 - 📫 How to reach me >> zesan2126@gmail.com
 
 <!---
